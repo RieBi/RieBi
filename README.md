@@ -6,6 +6,7 @@
 
 My awful stats are here (hoperfully they will not be so awful in the future):
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riebi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riebi&theme=blueberry&show_icons=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=riebi&theme=blueberry)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riebi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riebi&theme=blueberry)
