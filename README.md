@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RieBi
 - 👀 I’m interested in learning C#, .NET, and basically anything else that's needed
-- 🌱 I’m currently a lot of stuff
 - 💞️ I’m looking to collaborate on some projects, build stuff, and get better in the process
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riebi&theme=blueberry&show_icons=true)
