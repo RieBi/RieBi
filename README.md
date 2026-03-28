@@ -23,7 +23,10 @@ I like digging into how things actually work — whether that's language interna
 | [Godot Game - Tales of the Wild](https://github.com/RieBi/tales-of-the-wild) | Game jam entry built with Godot |
 | [LeetCode Solutions](https://github.com/RieBi/LeetCodeSolutions) | Collection of LeetCode problem solutions |
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riebi&theme=blueberry&show_icons=true)
+-->
+
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=riebi&theme=blueberry)
 
 <!--
