@@ -10,7 +10,7 @@ I like digging into how things actually work — whether that's language interna
 
 | Project | Description |
 |---------|-------------|
-| [VibyCounter](https://github.com/RieBi/VibyCounter) | Customizable counter app for Android — React Native, Expo, TypeScript, Reanimated, Zustand + MMKV |
+| [[WIP] VibyCounter](https://github.com/RieBi/VibyCounter) | Customizable counter app for Android — React Native, Expo, TypeScript, Reanimated, Zustand + MMKV |
 | [Zealot](https://github.com/RieBi/Zealot) | Interpreted programming language built from scratch in C# — custom lexer, parser, and evaluator |
 
 ### Other Projects
