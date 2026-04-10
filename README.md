@@ -4,6 +4,8 @@ I'm Sviatoslav — a software developer based in Czech Republic. I work primaril
 
 I like digging into how things actually work — whether that's language internals, cloud infrastructure, or gesture systems on mobile.
 
+🎖️One of my biggest achievements: learning how to reverse linked list (after solving 560 LeetCode problems)
+
 ---
 
 ### Featured
