@@ -21,8 +21,6 @@ I like digging into how things actually work — whether that's language interna
 |---------|-------------|
 | [CountRie](https://github.com/RieBi/CountRie) | Full-stack web app — ASP.NET Core MVC, EF Core, PostgreSQL, Docker, GCP |
 | [BrewABear](https://github.com/RieBi/BrewABear) | RESTful API for brewery management — ASP.NET Core, CQRS, xUnit test suite |
-| [RimWorld Mod](https://github.com/RieBi/RieBiRimWorldMods) | RimWorld mod built with C# and Harmony patching |
-| [Godot Game - Tales of the Wild](https://github.com/RieBi/tales-of-the-wild) | Game jam entry built with Godot |
 | [LeetCode Solutions](https://github.com/RieBi/LeetCodeSolutions) | Collection of LeetCode problem solutions |
 
 <!--
