@@ -27,7 +27,7 @@ I like digging into how things actually work — whether that's language interna
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riebi&theme=blueberry&show_icons=true)
 -->
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=riebi&theme=blueberry)
+<!-- ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=riebi&theme=blueberry) -->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riebi&theme=blueberry)
